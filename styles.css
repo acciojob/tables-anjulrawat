@@ -1,2 +1,13 @@
 
+
 /* Your CSS Code here. */
+.table-light th{
+    background-color: black;
+    color: aliceblue;
+}
+tr:nth-child(3) {
+    border-bottom: solid black;
+}
+p{
+    color: grey;
+}
